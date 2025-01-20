@@ -12,3 +12,6 @@ int main(){
     }
     cout<<c;
 }
+
+//Time Complexity: θ(d), where d is the number of digits present in the number.
+//Auxiliary Space: O(1) or constant
