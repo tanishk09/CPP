@@ -1,0 +1,11 @@
+11 Week WorkShop on Data Structure and Algorithms:
+Course Link: https://www.geeksforgeeks.org/batch/DSA-Workshop?tab=Chapters
+
+Week 0 : Intro to DSA - Shahsi Bhushan Kumar
+
+Why Learning DSA is important?
+To get a good job.
+to be a better software developer.
+
+
+
